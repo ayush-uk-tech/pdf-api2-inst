@@ -1,3 +1,5 @@
 fastapi
 python-multipart
 pypdf
+pydantic
+PyMuPDF
